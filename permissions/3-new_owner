@@ -1,2 +1,2 @@
 #!/bin/bash
-add user
+chown betty hello
