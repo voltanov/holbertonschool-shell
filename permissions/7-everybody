@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod ugo+x hello
+cmod 007 hello
